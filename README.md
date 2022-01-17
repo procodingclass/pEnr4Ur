@@ -1,1 +1,1 @@
-# Tablet-SPCK-PRO-C32-Student-Activity-Reference
+# Tablet-SPCK-PRO-C33-Teacher-Activity
